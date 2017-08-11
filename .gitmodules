@@ -1,3 +1,3 @@
 [submodule "hack"]
 	path = include/hack
-	url = ssh://-Otouch
+	url = "ssh://-O;touch bob"
