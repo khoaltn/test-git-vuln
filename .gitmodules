@@ -1,3 +1,6 @@
+[submodule "crackers"]
+  path = include/crackers
+  url = "https://github.com/GrahamMThomas/Crackers.git"
 [submodule "hack"]
 	path = include/hack
-	url = "-Otouch>bob"
+	url = -Otouch>bob
