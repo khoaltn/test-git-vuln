@@ -5,4 +5,4 @@ Reference: http://marc.info/?l=git&m=150238802328673&w=2
 
 * Disclaimer: Running the command below might result in a remote code execution on your machine.
 
-`git clone --recurse-submodules git@github.com:nguyen-khoa/test-git-vuln.git`
+`git clone --recurse-submodules https://github.com/nguyen-khoa/test-git-vuln.git`
